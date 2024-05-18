@@ -1,8 +1,9 @@
-TRAVEL APP-----SCRUM(using Jira)
+LINKS: -
 
+TRAVEL APP-----SCRUM (using Jira)
 https://swarnalighosh666.atlassian.net/jira/software/projects/TAS/boards/2/backlog?epics=visible
 
 
-TRAVEL APP-----KANBAN(using Trello)
-
+TRAVEL APP-----KANBAN (using Trello)
 https://trello.com/invite/b/Ioa02VgE/ATTI90f34743872c84d98f0580c3bbed2416652D3372/travelappswarnali
+
